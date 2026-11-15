@@ -4,7 +4,7 @@
 
 Laptop Learning World is a browser-based 3D virtual computer academy. You control a human character inside an office, do real hands-on tasks (plug in cables, build a PC, use a simulated desktop), and learn computers day by day. Hindi + English.
 
-**Play online:** https://YOUR-USERNAME.github.io/laptop-learning-world/
+**Play online:** https://honeybankhede.github.io/laptop-learning-world/
 
 ## Features
 - Cinematic intro (laptop opens, camera flies into the screen) with a skip button
