@@ -35,7 +35,7 @@ Laptop Learning World is a browser-based 3D virtual computer academy. You contro
 | Pause | Esc | Pause button |
 
 ## Run locally
-1. Download `index.html`
+1. index.html`
 2. Double-click it (internet is needed for the Three.js and GSAP CDN scripts)
 
 ## Tech
